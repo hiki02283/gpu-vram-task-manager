@@ -14,7 +14,7 @@ Built by **Hiki**.
 ## 📸 Application Preview
 
 <p align="center">
-  <img src="preview.png" alt="GPU VRAM Task Manager & Hardware Monitor Preview" width="900"/>
+  <img src="https://raw.githubusercontent.com/hiki02283/gpu-vram-task-manager/main/preview.png" alt="GPU VRAM Task Manager & Hardware Monitor Preview" width="900"/>
 </p>
 
 ---
