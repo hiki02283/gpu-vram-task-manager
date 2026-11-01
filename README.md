@@ -11,6 +11,14 @@ Built by **Hiki**.
 
 ---
 
+## 📸 Application Preview
+
+<p align="center">
+  <img src="preview.png" alt="GPU VRAM Task Manager & Hardware Monitor Preview" width="900"/>
+</p>
+
+---
+
 ## 🌟 Key Features
 
 ### 1. 📊 Real-Time Per-Process GPU VRAM Tracking
